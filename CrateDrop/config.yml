@@ -1,0 +1,100 @@
+#Default config file for crate drop
+
+Crate:
+  Coords1:
+    X: 100
+    Z: -100
+  Coords2:
+    X: -100
+    Z: 100
+
+Iterations: 20
+
+#The amount of different items in a chest, do not go over 27
+
+ChestName: "&3&lTreasure"
+
+#The name of the chest that is being opened
+
+Item1:
+  Amount1: 1
+  Name: dirt
+Item2:
+  Amount2: 1
+  Name: dirt
+Item3:
+  Amount3: 1
+  Name: dirt
+Item4:
+  Amount4: 1
+  Name: dirt
+Item5:
+  Amount5: 1
+  Name: dirt
+Item6:
+  Amount6: 1
+  Name: dirt
+Item7:
+  Amount7: 1
+  Name: dirt
+Item8:
+  Amount8: 1
+  Name: dirt
+Item9:
+  Amount9: 1
+  Name: dirt
+Item10:
+  Amount10: 1
+  Name: dirt
+Item11:
+  Amount11: 1
+  Name: dirt
+Item12:
+  Amount12: 1
+  Name: dirt
+Item13:
+  Amount13: 1
+  Name: dirt
+Item14:
+  Amount14: 1
+  Name: dirt
+Item15:
+  Amount15: 1
+  Name: dirt
+Item16:
+  Amount16: 1
+  Name: dirt
+Item17:
+  Amount17: 1
+  Name: dirt
+Item18:
+  Amount18: 1
+  Name: dirt
+Item19:
+  Amount19: 1
+  Name: dirt
+Item20:
+  Amount20: 1
+  Name: dirt
+Item21:
+  Amount21: 1
+  Name: dirt
+Item22:
+  Amount22: 1
+  Name: dirt
+Item23:
+  Amount23: 1
+  Name: dirt
+Item24:
+  Amount24: 1
+  Name: dirt
+Item25:
+  Amount25: 1
+  Name: dirt
+Item26:
+  Amount26: 1
+  Name: dirt
+Item27:
+  Amount27: 1
+  Name: dirt
+
